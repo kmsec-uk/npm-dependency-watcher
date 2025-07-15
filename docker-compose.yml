@@ -1,0 +1,13 @@
+services:
+  dep-watcher:
+    build: .
+    container_name: dep-watcher
+    environment:
+      - DOCKER=true
+    secrets:
+      - config
+
+secrets:
+  config:
+    file: ./.config
+  

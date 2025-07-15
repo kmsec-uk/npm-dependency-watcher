@@ -1,0 +1,4 @@
+github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
+github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
+github.com/pardnchiu/go-cron v0.4.0 h1:iJE1xHCoCHmyz939Q2ZWukQBb/FCJ9GKAcez9pSy8lQ=
+github.com/pardnchiu/go-cron v0.4.0/go.mod h1:006+palexsvesrLBYB1dip81rUUH/UEq6nRxDxJAcLg=
