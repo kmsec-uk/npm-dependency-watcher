@@ -5,9 +5,9 @@ services:
     environment:
       - DOCKER=true
     secrets:
-      - config
+      - .config
 
 secrets:
-  config:
+  .config:
     file: ./.config
   
